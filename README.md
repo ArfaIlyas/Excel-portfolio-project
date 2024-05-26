@@ -20,6 +20,7 @@ Open the fact_survey_responses.csv file in Microsoft Excel.
 Utilize Excel's functionalities such as sorting, filtering, and pivot tables to explore the survey data.
 Perform data cleaning, analysis, and visualization directly within Excel.
 Refer to the Primary_Secondary_Insights.docx document for a summary of insights and recommendations derived from the analysis.
+Also check excel portfolio.xlsx for final analysis.
 Review Insights:
 
 Review the Primary_Secondary_Insights.docx document to understand the key findings, insights, and recommendations from the analysis.
